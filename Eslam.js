@@ -14,7 +14,7 @@ document
       window.location.href = "https://ict.moe.gov.om/book/"; // تحويل إلى Google
     } else if (searchTerm === "شرح درس الذرات") {
       window.location.href = "https://youtu.be/fbtNV22t31Y"; // تحويل إلى Google
-    } else if (searchTerm === "درس الذرات شرح") {
+    } else if (searchTerm === "درس الذرات") {
       window.location.href = "https://youtu.be/fbtNV22t31Y"; // تحويل إلى Google
     } else if (searchTerm === "الجدول الدوري") {
       window.location.href = "https://youtu.be/0FZnsQwwXZw"; // تحويل إلى Google
