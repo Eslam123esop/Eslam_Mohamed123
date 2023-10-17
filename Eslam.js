@@ -12,7 +12,7 @@ document
       window.location.href = "https://www.google.com"; // تحويل إلى Google
     } else if (searchTerm === "كتاب العلوم") {
       window.location.href = "https://ict.moe.gov.om/book/"; // تحويل إلى Google
-    } else if (searchTerm === "شرح درس الذرات") {
+    } else if (searchTerm === "درس الذرات") {
       window.location.href = "https://youtu.be/fbtNV22t31Y"; // تحويل إلى Google
     } else if (searchTerm === " درس الذرات ") {
       window.location.href = "https://youtu.be/fbtNV22t31Y"; // تحويل إلى Google
