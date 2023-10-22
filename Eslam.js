@@ -16,6 +16,14 @@ document
       window.location.href = "https://youtu.be/fbtNV22t31Y"; // تحويل إلى Google
     } else if (searchTerm === " درس الذرات ") {
       window.location.href = "https://youtu.be/fbtNV22t31Y"; // تحويل إلى Google
+    } else if (searchTerm === "الصيغ الكيميائية") {
+      window.location.href = "https://youtu.be/cvqoKBuEg6w?si=wAFEklrmJ5REgdk3"; // تحويل إلى Google
+    } else if (searchTerm === "الصيغ الكيميائيه") {
+      window.location.href = "https://youtu.be/cvqoKBuEg6w?si=wAFEklrmJ5REgdk3"; // تحويل إلى Google
+    } else if (searchTerm === "درس الصيغ الكيميائية") {
+      window.location.href = "https://youtu.be/cvqoKBuEg6w?si=wAFEklrmJ5REgdk3"; // تحويل إلى Google
+    } else if (searchTerm === "درس الصيغ الكيميائيه") {
+      window.location.href = "https://youtu.be/cvqoKBuEg6w?si=wAFEklrmJ5REgdk3"; // تحويل إلى Google
     } else if (searchTerm === "الجدول الدوري") {
       window.location.href = "https://youtu.be/0FZnsQwwXZw"; // تحويل إلى Google
     } else if (searchTerm === "Eslam") {
